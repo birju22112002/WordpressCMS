@@ -37,8 +37,7 @@
     "react-share": "^5.1.0",
     "react-toastify": "^10.0.5",
     "styled-components": "^5.3.11",
-    "tiptap": "^1.32.2",
-    "tiptap-extensions": "^1.35.2"
+    "vue": "^2.7.16"
   },
   "devDependencies": {
     "@babel/core": "^7.24.3",
