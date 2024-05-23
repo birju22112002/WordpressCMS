@@ -131,7 +131,7 @@ function UserComments() {
               <List.Item
                 actions={[
                   <Link
-                    key='view'
+                    key={item._id}
                     href={`/pages/posts/${item?.postId?.slug}#${item._id}`}
                     style={listItemStyle}>
                     view
